@@ -1,4 +1,4 @@
-# Airline Ticket Reservation System
+# Flight Ticket Booking System
 Online airline ticketing saves time and money for the customer as well as the airline company thereby making air travel more customer-centric. 
 This project is an attempt to simulate the basic concepts of an airline reservation system.
 
